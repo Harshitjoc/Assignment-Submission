@@ -1,0 +1,31 @@
+.highlights-container {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(50, 50, 50);
+    color: white;
+}
+
+.course-section-container {
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(182, 215, 235, 0.039);
+}
+
+.career-scope-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: bisque;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(24, 24, 24);
+    flex-direction: column;
+}
